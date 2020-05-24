@@ -1,4 +1,4 @@
-## CODE RED - SOW
+## AshwA Cup - SOW
 
 Document prepared by ASHTAM SINGH ( aka Ashwa Kali )
 
