@@ -34,6 +34,7 @@ GrandMasters Esports will work to:
 * Invited teams (Wild Card Entry) who will directly play in Finals.
 * Promotions and Mass DM’s on Discord. 
 * Provide management team on AGN Esports discord server for maintaining and help participants in their queries during the competition. 
+* Circulate a description on discord with only GrandMasters Esports Discord link but have to specify AGN Esports in every promotional assets and descriptions.
 
 
 ## Responsibilities
