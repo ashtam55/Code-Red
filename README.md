@@ -45,6 +45,7 @@ GrandMasters Esports will work to:
 * AGN Esports will provide the required cost ( Prizepool ) and will disbursed the amount after the event.
 
 ## Acceptance Criteria
+Minium 1k member is expected during this activity.
 At the conclusion of this evaluation, all deliverables for this phase will be presented to AGN Esports for review.
 
 AGN Esports or its representative will have 3 business days from the date of delivery of any document that is a deliverable to review it and request any changes.  If GrandMasters Esports does not receive notification of any required changes within this period, the document will be deemed to have been accepted without modification and will be reissued as a final copy.
