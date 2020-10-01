@@ -24,7 +24,7 @@ This documentation is to serve as a 'Statement of Work' or SOW for organising Pu
 * How to register, point table, tournament schedule are common on both servers.
 
 ## Maintenance
-To be maintained for 15-20 days by the GrandMasters Esports and then re-discuss based on new requirements and learnings.
+To be maintained for 15-20 days by the GrandMasters Esports and then re-discussed based on new requirements and learnings.
 
 ## Deliverables
 GrandMasters Esports will work to:
